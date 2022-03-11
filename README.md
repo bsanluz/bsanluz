@@ -1,11 +1,9 @@
 #### Olá me chamo Bruno Luz 👋
-
-- 🔭 Atualmente trabalhando com back-end.
-- 🌱 Sempre buscando aprender e evoluir junto com o mercado.
+##
 <div align="center">
   <a href="https://github.com/bsanluz">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=bsanluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsanluz&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="180em"src="https://github-readme-stats.vercel.app/api?username=bsanluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsanluz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
